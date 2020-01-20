@@ -1,4 +1,6 @@
 # The Synthesis ToolKit in C++ (STK)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdcermak%2Fstk.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdcermak%2Fstk?ref=badge_shield)
+
 By Perry R. Cook and Gary P. Scavone, 1995--2019.
 
 This distribution of the Synthesis ToolKit in C++ (STK) contains the following:
@@ -192,3 +194,7 @@ This set of C++ unit generators and instruments might help to diminish the score
 
 6) More rationalizations to follow . . .
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fdcermak%2Fstk.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fdcermak%2Fstk?ref=badge_large)
